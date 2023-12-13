@@ -8,7 +8,7 @@ global:
   imagePullPolicy: IfNotPresent
   imagePullSecrets: ""
   restartPolicy: Always
-  loggingLevel: 1
+  loggingLevel: 2
   enableSecurity: false
   certificates:
     alphacrds: false
